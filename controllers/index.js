@@ -1,0 +1,6 @@
+//  Jitne bhi controller h iss file ke ander import krna h and phir yha se export krege sb
+export { default as registerController } from './auth/registerController';
+export { default as loginController } from './auth/loginController';
+export { default as userController } from './auth/userController';
+export { default as refreshController } from './auth/refreshController';
+export { default as productController } from './productController';
